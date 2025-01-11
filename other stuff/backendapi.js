@@ -2,7 +2,7 @@ fetch('https://your-backend-url.com/inject', {
     method: 'POST',
     headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer '
+        'Authorization': 'Bearer 9u023892ti3ujepejgila'
     },
     body: JSON.stringify({ code: injectedCode })
 })
