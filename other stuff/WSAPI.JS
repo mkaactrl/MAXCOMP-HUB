@@ -51,7 +51,7 @@
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': 'Bearer YOUR_TOKEN_HERE' // Include token for security
+                'Authorization': 'Bearer 9u023892ti3ujepejgila' // Include token for security
             },
             body: JSON.stringify({ code: code })
         })
