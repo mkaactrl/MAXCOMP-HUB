@@ -1,6 +1,6 @@
 export default {
     name: "ChatLoggerWithUI",
-    description: "Saves chat logs and displays them in a top-right box with a transparent blur background.",
+    description: "Saves chat logs and displays them in a box.",
     author: "YourName",
     version: "1.2.0",
 
